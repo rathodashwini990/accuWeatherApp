@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+
+.card {
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.input-field {
+  border-radius: 10px;
+  border: 0;
+  font-size: 25px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin: 10px;
+}
+
+.btn {
+  border-radius: 10px;
+  border: 0;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
